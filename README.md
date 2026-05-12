@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Luis Miguel Rojas Chávez</h1>
 <h3 align="center">Desarrollador Full-Stack con experiencia en JavaScript, HTML, CSS y Python. Orientado al aprendizaje continuo, resolución de problemas y trabajo en equipo.</h3>
 
-- 👯 I’m looking to collaborate on [spain-fs-fp-130-Baby-Routine](https://github.com/4GeeksAcademy/spain-fs-fp-130-Baby-Routine)
+- 👯 Trabajo colaborativo [spain-fs-fp-130-Baby-Routine](https://github.com/4GeeksAcademy/spain-fs-fp-130-Baby-Routine)
 
-- 📫 How to reach me **luismiguelrc312004@gmail.com**
+- 📫 Como contactarme **luismiguelrc312004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
